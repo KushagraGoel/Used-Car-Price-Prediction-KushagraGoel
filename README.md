@@ -15,3 +15,9 @@ Heroku App Link  : https://used-car-price-pred-kushagra.herokuapp.com/
 # Output
 
 ![Screenshot (479)](https://user-images.githubusercontent.com/43815121/142751617-22ac35a3-e06a-460c-9453-8825593f2344.png)
+
+# Flowchart
+
+![image](https://user-images.githubusercontent.com/68856038/133958807-ff1b0e12-5c55-48a8-9af5-1fb20f333a29.png)
+   
+
